@@ -1,0 +1,98 @@
+.font-arial {
+    font-family: Arial;
+}
+
+.font-time-news-roman {
+    font-family: 'Time News Roman';
+}
+
+/* .font-UNI-tap-viet_0_ly {
+    font-family: 'UNITapviet 0 ly';
+} */
+
+.font-UTM-flavour {
+    font-family: 'UTM Flavour';
+}
+
+.font-UTM-BoQuen {
+    font-family: 'UVNBoQuen';
+}
+
+
+/*Font Vietnamese*/
+/* @font-face {
+    font-family: 'UNITapviet 0 ly';
+    src: url('/fonts/UNITapviet_0_ly.woff');
+} */
+
+@font-face {
+    font-family: 'UTM Flavour';
+    src: url('../fonts/UTMFlavour.woff');
+}
+
+
+/*Font Unicode*/
+@font-face {
+    font-family: 'UVNBoQuen';
+    src: url('../fonts/UVNBoQuen.woff');
+}
+
+@font-face {
+    font-family: 'UVNBucThu';
+    src: url('../fonts/UVNBucThu.woff');
+}
+
+@font-face {
+    font-family: 'UVNBinhDuong';
+    src: url('../fonts/UVNBinhDuong.woff');
+}
+
+@font-face {
+    font-family: 'UVNBenXuan';
+    src: url('../fonts/UVNBenXuan_R.woff');
+}
+
+@font-face {
+    font-family: 'UVNBanhMi';
+    src: url('../fonts/UVNBanhMi.woff');
+}
+
+@font-face {
+    font-family: 'UVNBachDang';
+    src: url('../fonts/UVNBachDang_R.woff');
+}
+
+/* @font-face {
+    font-family: 'Roboto-Black';
+    src: url('../../fonts/Roboto-Black.woff');
+} */
+
+@font-face {
+    font-family: 'UVNBaiSau';
+    src: url('../fonts/UVNBaiSau_R.woff');
+}
+
+@font-face {
+    font-family: 'NotoSerif';
+    src: url('../fonts/NotoSerif-Regular.woff');
+}
+
+@font-face {
+    font-family: 'Agrandir';
+    src: url('../fonts/Agrandir-VN-SVG.ttf');
+}
+
+@font-face {
+    font-family: 'Livory';
+    src: url('../fonts/iCielBCLivory-Regular.otf');
+}
+
+@font-face {
+    font-family: 'NewYork';
+    src: url('../fonts/MRCH-NewYork.ttf');
+}
+
+@font-face {
+    font-family: 'murmure';
+    src: url('../fonts/murmure.ttf');
+}
